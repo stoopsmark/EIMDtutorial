@@ -1,2 +1,2 @@
 # EIMDtutorial
-change name
+EIMD readme
